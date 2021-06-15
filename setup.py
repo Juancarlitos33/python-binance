@@ -20,13 +20,13 @@ with open("README.rst", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='python-binance-JC',
+    name='python-binanceJC',
     version=version,
-    packages=['binance-JC'],
+    packages=['binanceJC'],
     description='Binance REST API python implementation',
     long_description=long_description,
     long_description_content_type="text/x-rst",
-    url='https://github.com/sammchardy/python-binance',
+    url='https://github.com/Juancarlitos33/python-binanceJC',
     author='Sam McHardy',
     license='MIT',
     author_email='',
