@@ -20,9 +20,9 @@ with open("README.rst", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='python-binance',
+    name='python-binance-JC',
     version=version,
-    packages=['binance'],
+    packages=['binance-JC'],
     description='Binance REST API python implementation',
     long_description=long_description,
     long_description_content_type="text/x-rst",
